@@ -1,0 +1,21 @@
+﻿Flattybird
+
+Pole
+1. Move the poles
+2. Make the poles re-appear when it go out of the container
+3. Change the poles speed before it re-appear
+4. Change the poles height before it re-appear
+
+Bird
+1. Move the bird down
+2. Move the bird up when space key is pressed
+
+Score
+1. Update score if bird successfully passes the poles
+
+Game over
+1. If bird hits pole_1
+2. If bird hits pole_2
+3. If bird hits the top of the container
+4. If bird hits the bottom of the container
+
