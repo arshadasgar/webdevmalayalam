@@ -33,7 +33,6 @@ $(function() {
 
     //Game code
     the_game = function() {
-        console.log('loop working');
         if (collision(bird, pole_1) || collision(bird, pole_2) || parseInt(bird.css('top')) <= 0 || parseInt(bird.css('top')) > container_height - bird_height) {
             stop_the_game();
         } else {
